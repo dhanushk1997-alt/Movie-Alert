@@ -1,9 +1,8 @@
 {
   "detector": "venue_date",
-  "movie": "Spider-Man: Brand New Day",
-  "requested_date": "20260730",
-  "venue_code": "INTO",
-  "venue_label": "INOX: The Marina Mall, OMR",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/spiderman-brand-new-day/buytickets/ET00502600/{date}",
-  "min_references": 10
+  "movie": "Drishyam The Conclusion",
+  "requested_date": "20261003",
+  "venue_codes": ["INPR", "PCAN", "PVSR", "PVES"],
+  "venue_label": "INOX LUXE Velachery / PVR VR Anna Nagar / PVR Sathyam / PVR Escape Express Avenue",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/drishyam-the-conclusion/buytickets/ET00477911/{date}"
 }
